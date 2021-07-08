@@ -1,1 +1,1 @@
-# Images used at Spring Wheat Breeding Program at NDSU website.
+# Images used on the NDSU Spring Wheat Breeding Program website.
